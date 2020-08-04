@@ -22,7 +22,7 @@ Exemplos e testes das aulas.
 
 ## :clipboard: Fonte de estudo
 
-1. Next level week - 2
+1. Next level week 2
 
 ## :wrench: Objeto de estudo
 
