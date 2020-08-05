@@ -24,7 +24,7 @@ Exemplos e testes das aulas.
 
 1. Next level week 2
 
-<img src="https://github.com/jefersonnn/rocketseat/blob/master/.github/assets/proffy-index.png" height="471" width="960" alt="Proffy" />
+<img src="https://github.com/jefersonnn/rocketseat-nlw-starter-2/blob/master/.github/assets/proffy-index.png" height="471" width="960" alt="Proffy" />
 
 ## :wrench: Objeto de estudo
 
